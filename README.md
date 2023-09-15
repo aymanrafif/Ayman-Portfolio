@@ -1,4 +1,4 @@
-![image](https://github.com/aymanrafif/Data-Science-Projects/assets/97144280/5ffe3959-722f-414a-98ba-8fa760d662e4)# Ayman's Portfolio with Data Science Projects
+# Ayman's Portfolio with Data Science Projects
 LinkedIn Profile: [LinkedIn/aymanrafif](https://www.linkedin.com/in/aymanrafif/)
 
 ## Projects
