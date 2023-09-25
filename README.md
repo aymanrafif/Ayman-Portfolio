@@ -1,5 +1,7 @@
+
 # Ayman's Portfolio with Data Science Projects
-LinkedIn Profile: [LinkedIn/aymanrafif](https://www.linkedin.com/in/aymanrafif/)
+- LinkedIn Profile: [LinkedIn/aymanrafif](https://www.linkedin.com/in/aymanrafif/)
+- Curriculum Vitae: [Ayman's CV]()
 
 ## Projects
 Here, you can access the notebooks related to my projects within the field of Data Science, Machine Learning, and Deep Learning.
