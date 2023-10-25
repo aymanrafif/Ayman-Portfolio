@@ -7,7 +7,7 @@ Throughout my academic journey, I have developed a strong foundation in data ana
 If you are interested in discussing data-driven insights, problem-solving, or anything related to data science, feel free to reach out to me (aymanrafif00@gmail.com).
 # Ayman's Portfolio with Data Science Projects
 - LinkedIn Profile: [LinkedIn/aymanrafif](https://www.linkedin.com/in/aymanrafif/)
-- Curriculum Vitae: [Ayman's CV](https://drive.google.com/file/d/1GLi9wlpM2b-LLKDaLZOdo9Y007YpXhAl/view?usp=sharing)
+- Curriculum Vitae: [Ayman's CV](https://drive.google.com/file/d/1RR72FRbwmP8_G_WNna0gvB7FPfcC-WQx/view?usp=sharing)
 
 ## Projects
 Here, you can access the notebooks related to my projects within the field of Data Science, Machine Learning, and Deep Learning.
