@@ -1,4 +1,4 @@
-Hello! My name is Ayman, and I am a highly motivated and passionate 3rd year Data Science Undergraduate Student at BINUS University. My journey in the world of data science has been both exciting and enriching, igniting an insatiable curiosity within me to explore the endless possibilities that data holds.
+Hello! My name is Ayman, and I am a Data Science Graduate from BINUS University. My journey in the world of data science has been both exciting and enriching, igniting an insatiable curiosity within me to explore the endless possibilities that data holds.
 
 As a dedicated student, I have been actively involved in various academic and extracurricular activities. Currently, I am honored to serve as the General Treasurer at Himpunan Mahasiswa Teknik Informatika ([HIMTI](https://ofog.himti.or.id/)) BINUS, where I contribute my organizational and financial management skills to support the growth of the student community.
 
